@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anashmamouch/todo-app.git"
+  },
+  "author": "Anas Hmamouch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anashmamouch/todo-app/issues"
+  },
+  "homepage": "https://github.com/anashmamouch/todo-app#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
